@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "caiyun"
 include ':app'
+include ':caiyun_jv'
